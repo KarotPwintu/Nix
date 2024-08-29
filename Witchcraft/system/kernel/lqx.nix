@@ -1,0 +1,1 @@
+boot.kernelPackages = pkgs.linuxPackages_lqx.zfs_unstable
