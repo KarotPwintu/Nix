@@ -1,4 +1,0 @@
-#emacs
-{
-  programs.emacs = {};
-}
